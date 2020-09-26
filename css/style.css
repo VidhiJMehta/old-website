@@ -925,3 +925,14 @@ font-weight: 200;
 .github-component a:hover {
   color: #343a40 !important;
   }
+
+  .mb-0 {
+    margin-bottom: 0 !important;
+}
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+}
