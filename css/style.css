@@ -25,8 +25,8 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  font-family: "Arbutus Slab", serif;
-  color: #000; }
+  font-family: "Helvetica";
+  color: #c78584; }
 
 .border-2 {
   border-width: 2px; }
@@ -808,6 +808,10 @@ body:after {
       background: rgba(255, 255, 255, 0.5); }
     .slide-one-item .owl-dots .owl-dot.active > span {
       background: #fff; }
+
+      .owl-item.h2{
+        text-decoration-color: #c78584;
+      }
 
 .blog_entry img {
   border-top-left-radius: 4px;
